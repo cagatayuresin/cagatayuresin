@@ -1,97 +1,74 @@
-### <div align="center">Çağatay ÜRESİN <br> Python Developer</div>  
-  
+# 👋 Hello, I'm Çağatay ÜRESİN
 
-From Turkey. 
+**Backend Developer & SRE Enthusiast**  
+*I thrive on transforming complexity into clarity and eliminating inefficiencies to streamline workflows.*
 
-Ex Electronics Eng; now Computer Eng. 
+---
 
-I'm into [ODOO](https://github.com/odoo/odoo) for a year.  
-  
+## 🚀 About Me
 
-<br/>  
+I'm a computer engineer specializing in backend development and site reliability engineering (SRE). Currently, I work at <a href="https://www.detaysoft.com" target="_blank"><img src="https://detaysoft.com/templates/template-1/view/images/logo-tr.png" width="160" alt="Detaysoft Logo"></a>, where I focus on optimizing workflows and building reliable systems. With a passion for solving complex problems, I aim to provide efficient solutions that make a difference.
 
+## 🛠️ Skills
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Languages
 
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-Intermediate-lightblue?style=flat&logo=go) ![Java](https://img.shields.io/badge/Java-Intermediate-red?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat&logo=javascript) ![C](https://img.shields.io/badge/C-Intermediate-grey?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-Intermediate-darkblue?style=flat&logo=cplusplus) ![Bash](https://img.shields.io/badge/Bash-Intermediate-lightgrey?style=flat&logo=gnu-bash)
 
+### Frameworks & Libraries
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-lightgreen?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask) ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger-Fabric-blue?style=flat&logo=hyperledger) ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple?style=flat&logo=odoo) ![Selenium](https://img.shields.io/badge/Selenium-Browser%20Automation-brightgreen?style=flat&logo=selenium) ![Puppeteer](https://img.shields.io/badge/Puppeteer-Browser%20Automation-blue?style=flat&logo=puppeteer)
 
-</td><td valign="top" width="33%">
+### Tools & Platforms
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-lightblue?style=flat&logo=kubernetes) ![Docker](https://img.shields.io/badge/Docker-lightblue?style=flat&logo=docker) ![ArgoCD](https://img.shields.io/badge/ArgoCD-blue?style=flat&logo=argo) ![Grafana](https://img.shields.io/badge/Grafana-lightpink?style=flat&logo=grafana) ![Prometheus](https://img.shields.io/badge/Prometheus-lightpink?style=flat&logo=prometheus)
+![GitLab CI](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat&logo=gitlab) ![ELK Stack](https://img.shields.io/badge/ELK-Stack-green?style=flat&logo=elastic) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat&logo=rabbitmq)
 
+### Databases
 
-### Dev  
-<div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=flat&logo=postgresql) ![InfluxDB](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=influxdb) ![CouchDB](https://img.shields.io/badge/CouchDB-red?style=flat&logo=apachecouchdb)
 
-</td><td valign="top" width="33%">
+### IoT
 
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red?style=flat&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino)
 
+---
 
-### Others 
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>
+## 📈 GitHub Stats
 
-</td></tr></table>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cagatayuresin&theme=shades-of-purple&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>  
+## 🏆 GitHub Trophies
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cagatayuresin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/cagatayuresin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/cagatayuresin" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/cagatayuresin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/cagatayuresin" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/cagatayuresin" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 🔝 Top Contributed Repo
 
-<br/>  
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=cagatayuresin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cagatayuresin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 🔗 Let's Connect
 
-<br/>  
+[![Email](https://img.shields.io/badge/Email-cagatayuresin@gmail.com-red?style=flat&logo=gmail)](mailto:cagatayuresin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cagatayuresin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cagatayuresin)
+[![Instagram](https://img.shields.io/badge/Instagram-cagatayuresin-pink?style=flat&logo=instagram)](https://instagram.com/cagatayuresin)
+[![X](https://img.shields.io/badge/X-cagatayuresin-black?style=flat&logo=x)](https://x.com/cagatayuresin)
+[![Medium](https://img.shields.io/badge/Medium-cagatayuresin-black?style=flat&logo=medium)](https://medium.com/@cagatayuresin)
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11135852341&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=efff0a&bar_color_cover=false" /></div>  
+---
 
-<br/>  
+## 🌟 Featured Projects
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cagatayuresin&&style=flat-square" align="center" />
-</div>  
-  
+- **[Odoo XMLRPC Wrapper](https://github.com/cagatayuresin/odoo-xmlrpc-wrapper)**: A simple Python library to make CRUD process easier with Odoo External API
+- **[Odoo Backup Wizard](https://github.com/cagatayuresin/odoo-backup-wizard)**: Odoo Backup Wizard is a robust, cross-platform tool designed to automate the backup process for Odoo servers. This utility ensures your critical business data is safely backed up, supporting both GUI and CLI operations for versatile usability.
 
-<br/>  
+---
 
-<div align="center"></div>
+Feel free to update the project links and descriptions to reflect your work accurately! This template should make your GitHub profile both informative and visually engaging.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=cagatayuresin&style=flat-square)
