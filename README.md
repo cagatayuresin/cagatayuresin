@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a computer engineer specializing in backend development and site reliability engineering (SRE). Currently, I work at <a href="https://www.detaysoft.com" target="_blank"><img src="https://detaysoft.com/templates/template-1/view/images/logo-tr.png" width="160" alt="Detaysoft Logo"></a>, where I focus on optimizing workflows and building reliable systems. With a passion for solving complex problems, I aim to provide efficient solutions that make a difference.
+I'm a computer engineer specializing in backend development and site reliability engineering (SRE). Currently, I work at [Detaysoft](https://www.detaysoft.com), where I focus on optimizing workflows and building reliable systems. With a passion for solving complex problems, I aim to provide efficient solutions that make a difference.
 
 ## 🛠️ Skills
 
