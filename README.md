@@ -1,74 +1,220 @@
-# 👋 Hello, I'm Çağatay ÜRESİN
+<div align="center">
 
-**Backend Developer & SRE Enthusiast**  
-*I thrive on transforming complexity into clarity and eliminating inefficiencies to streamline workflows.*
+# 🚀 Çağatay ÜRESİN
 
----
+### 🖥️ Site Reliability Engineer & DevOps Specialist
 
-## 🚀 About Me
-
-I'm a computer engineer specializing in backend development and site reliability engineering (SRE). Currently, I work at [Detaysoft](https://www.detaysoft.com), where I focus on optimizing workflows and building reliable systems. With a passion for solving complex problems, I aim to provide efficient solutions that make a difference.
-
-## 🛠️ Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-Intermediate-lightblue?style=flat&logo=go) ![Java](https://img.shields.io/badge/Java-Intermediate-red?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat&logo=javascript) ![C](https://img.shields.io/badge/C-Intermediate-grey?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-Intermediate-darkblue?style=flat&logo=cplusplus) ![Bash](https://img.shields.io/badge/Bash-Intermediate-lightgrey?style=flat&logo=gnu-bash)
-
-### Frameworks & Libraries
-
-![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-lightgreen?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask) ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger-Fabric-blue?style=flat&logo=hyperledger) ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple?style=flat&logo=odoo) ![Selenium](https://img.shields.io/badge/Selenium-Browser%20Automation-brightgreen?style=flat&logo=selenium) ![Puppeteer](https://img.shields.io/badge/Puppeteer-Browser%20Automation-blue?style=flat&logo=puppeteer)
-
-### Tools & Platforms
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-lightblue?style=flat&logo=kubernetes) ![Docker](https://img.shields.io/badge/Docker-lightblue?style=flat&logo=docker) ![ArgoCD](https://img.shields.io/badge/ArgoCD-blue?style=flat&logo=argo) ![Grafana](https://img.shields.io/badge/Grafana-lightpink?style=flat&logo=grafana) ![Prometheus](https://img.shields.io/badge/Prometheus-lightpink?style=flat&logo=prometheus)
-![GitLab CI](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat&logo=gitlab) ![ELK Stack](https://img.shields.io/badge/ELK-Stack-green?style=flat&logo=elastic) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat&logo=rabbitmq)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=flat&logo=postgresql) ![InfluxDB](https://img.shields.io/badge/InfluxDB-darkblue?style=flat&logo=influxdb) ![CouchDB](https://img.shields.io/badge/CouchDB-red?style=flat&logo=apachecouchdb)
-
-### IoT
-
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-red?style=flat&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino)
+*Building resilient, scalable infrastructure for enterprise clients | 5+ years of production experience*
 
 ---
 
-## 📈 GitHub Stats
+**Computer Engineer | SRE** with 5+ years of backend development experience and specialized expertise in Site Reliability Engineering. Currently serving as **Backend Developer & SRE** at [Detaysoft](https://www.detaysoft.com), where I manage production clusters, implement monitoring solutions, and ensure system reliability for enterprise clients.
+
+**🎓 Pursuing Master's Degree** in Computer Engineering at Sivas Cumhuriyet University (Sep 2025 - Present)
+
+**🔧 Core Expertise**: Kubernetes orchestration, containerization, CI/CD pipelines, monitoring & observability, infrastructure automation, and blockchain smart contracts.
+
+</div>
+
+<div align="center">
+
+## 🛠️ Technical Expertise
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🚀 SRE & DevOps Core
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-Advanced-blue?style=for-the-badge&logo=argo)
+![Prometheus](https://img.shields.io/badge/Prometheus-Advanced-red?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Advanced-orange?style=for-the-badge&logo=grafana)
+![Ansible](https://img.shields.io/badge/Ansible-Intermediate-red?style=for-the-badge&logo=ansible)
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ CI/CD & Automation
+
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-Expert-orange?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-red?style=for-the-badge&logo=jenkins)
+![SonarQube](https://img.shields.io/badge/SonarQube-Intermediate-red?style=for-the-badge&logo=sonarqube)
+![Selenium](https://img.shields.io/badge/Selenium-Expert-green?style=for-the-badge&logo=selenium)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-green?style=for-the-badge&logo=puppeteer)
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-Advanced-cyan?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-Advanced-grey?style=for-the-badge&logo=gnu-bash)
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+[Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-Advanced-blue?style=for-the-badge&logo=hyperledger)
+![Odoo](https://img.shields.io/badge/Odoo-Expert-purple?style=for-the-badge&logo=odoo)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-green?style=for-the-badge&logo=spring)
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange?style=for-the-badge&logo=mysql)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-Intermediate-purple?style=for-the-badge&logo=influxdb)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Intermediate-orange?style=for-the-badge&logo=rabbitmq)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-Intermediate-yellow?style=for-the-badge&logo=elasticsearch)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🏢 **Backend Developer & SRE**
+**[Detaysoft](https://www.detaysoft.com)**  
+*Nov 2021 - Present*  
+📍 *Sivas, Turkey*
+
+</td>
+<td align="center" width="50%">
+
+### 💻 **Python Developer**
+**Freelance**  
+*Jun 2016 - Nov 2021*  
+📍 *Bursa, Turkey*
+
+</td>
+</tr>
+</table>
+---
+
+<div align="center">
+
+## 🎓 Education
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎓 **Master's Degree**
+**Computer Engineering**  
+**Sivas Cumhuriyet University**  
+*Sep 2025 - Present*  
+*Currently Pursuing*
+
+</td>
+<td align="center" width="33%">
+
+### 🎓 **Bachelor's Degree**
+**Computer Engineering**  
+**Sivas Cumhuriyet University**  
+*Sep 2021 - Jun 2025*  
+*GPA: 3.43*
+
+</td>
+<td align="center" width="33%">
+
+### 🔬 **Electronic Engineering**
+**Bursa Uludağ University**  
+*Jun 2012 - Jul 2021*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)  
+
+</td>
+<td align="center" width="50%">
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cagatayuresin&theme=shades-of-purple&hide_border=false)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cagatayuresin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=cagatayuresin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-## 🔗 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-cagatayuresin@gmail.com-red?style=flat&logo=gmail)](mailto:cagatayuresin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cagatayuresin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/cagatayuresin)
-[![Instagram](https://img.shields.io/badge/Instagram-cagatayuresin-pink?style=flat&logo=instagram)](https://instagram.com/cagatayuresin)
-[![X](https://img.shields.io/badge/X-cagatayuresin-black?style=flat&logo=x)](https://x.com/cagatayuresin)
-[![Medium](https://img.shields.io/badge/Medium-cagatayuresin-black?style=flat&logo=medium)](https://medium.com/@cagatayuresin)
-
----
+<div align="center">
 
 ## 🌟 Featured Projects
 
-- **[Odoo XMLRPC Wrapper](https://github.com/cagatayuresin/odoo-xmlrpc-wrapper)**: A simple Python library to make CRUD process easier with Odoo External API
-- **[Odoo Backup Wizard](https://github.com/cagatayuresin/odoo-backup-wizard)**: Odoo Backup Wizard is a robust, cross-platform tool designed to automate the backup process for Odoo servers. This utility ensures your critical business data is safely backed up, supporting both GUI and CLI operations for versatile usability.
+*Coming Soon - Professional DevOps & SRE Tools*
+
+<!-- 
+**🚀 Enterprise-Grade Tools:**
+- **[Observer](https://github.com/cagatayuresin/observer)**: High-performance Kubernetes monitoring tool with integrated anomaly detection and alerting mechanisms
+- **[Kubernetes Installer Script](https://github.com/cagatayuresin/k8s-installer)**: Ansible-compatible automated Kubernetes cluster setup for enterprise environments
+- **[Argo CD API CLI Tool](https://github.com/cagatayuresin/argocd-cli)**: Command-line interface for managing and triggering Argo CD operations remotely
+- **[Mendirek](https://github.com/cagatayuresin/mendirek)**: Secure REST/SOAP testing utility with VPN bypass capabilities for backend communication validation
+- **[SAP Logon AutoBot](https://github.com/cagatayuresin/sap-autobot)**: Modular automation tool for executing SAP transactions as background jobs
+
+**🔧 Development Tools:**
+- **[Odoo XMLRPC Wrapper](https://github.com/cagatayuresin/odoo-xmlrpc-wrapper)**: Python library for streamlined CRUD operations with Odoo External API
+- **[Odoo Backup Wizard](https://github.com/cagatayuresin/odoo-backup-wizard)**: Cross-platform backup automation tool for Odoo servers with GUI and CLI support
+-->
+
+</div>
 
 ---
 
-Feel free to update the project links and descriptions to reflect your work accurately! This template should make your GitHub profile both informative and visually engaging.
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=cagatayuresin&style=for-the-badge&color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cagatayuresin&style=flat-square)
+</div>
