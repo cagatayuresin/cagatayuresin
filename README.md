@@ -154,6 +154,49 @@
 
 <div align="center">
 
+## 🏅 Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🏆 **Coming Soon**
+*Professional Certifications*
+
+**AWS Solutions Architect**  
+*Amazon Web Services*  
+*Ref: AWS-SAA-2025*  
+*[View Certificate](#)*
+
+**Kubernetes Administrator**  
+*Cloud Native Computing Foundation*  
+*Ref: CKA-2025*  
+*[View Certificate](#)*
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Future Certifications**
+*Planned Certifications*
+
+**Google Cloud Professional**  
+*Google Cloud Platform*  
+*Ref: GCP-PRO-2025*  
+*[View Certificate](#)*
+
+**Docker Certified Associate**  
+*Docker Inc.*  
+*Ref: DCA-2025*  
+*[View Certificate](#)*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ## 📊 GitHub Analytics
 
 </div>
