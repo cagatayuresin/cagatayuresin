@@ -162,7 +162,7 @@ When I'm not orchestrating containers or training models, I dive into entirely d
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 
 </td>
 <td align="center" width="50%">
@@ -174,7 +174,7 @@ When I'm not orchestrating containers or training models, I dive into entirely d
 <tr>
 <td align="center" colspan="2">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
 </tr>
@@ -184,7 +184,9 @@ When I'm not orchestrating containers or training models, I dive into entirely d
 
 ## 🏆 GitHub Trophies
 
+<!-- Trophy server error (503), temporarily disabled
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cagatayuresin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 </div>
 
