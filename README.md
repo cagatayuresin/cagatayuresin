@@ -27,126 +27,86 @@ Recently, I've been expanding my technical horizon into **AI Engineering**, spec
 
 ## 🛠️ Technical Arsenal
 
-</div>
+<br>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🤖 AI, ML & Data
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-green?style=for-the-badge&logo=langchain)
-![Ollama](https://img.shields.io/badge/Ollama-Advanced-white?style=for-the-badge&logo=ollama&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Intermediate-yellow?style=for-the-badge&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 SRE, DevOps & Cloud
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-Expert-orange?style=for-the-badge&logo=gitlab)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-Advanced-blue?style=for-the-badge&logo=argo)
-![Terraform](https://img.shields.io/badge/Terraform-Advanced-purple?style=for-the-badge&logo=terraform)
+### 🛠️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-### ⚙️ Backend & Architecture
-![Go](https://img.shields.io/badge/Go-Advanced-cyan?style=for-the-badge&logo=go)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
-![Kafka](https://img.shields.io/badge/Kafka-Advanced-black?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-red?style=for-the-badge&logo=redis)
-![gRPC](https://img.shields.io/badge/gRPC-Intermediate-blue?style=for-the-badge&logo=grpc)
+### 🧠 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-Advanced-red?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-Advanced-orange?style=for-the-badge&logo=grafana)
-![Zeek](https://img.shields.io/badge/Zeek-Intermediate-orange?style=for-the-badge)
+### 🐳 Cloud & Containers
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-### 🌐 Frameworks & CMS
-![Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
-![Odoo](https://img.shields.io/badge/Odoo-Expert-purple?style=for-the-badge&logo=odoo)
-![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
+### 🔄 CI/CD & Automation
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-### 🛡️ Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-Expert-green?style=for-the-badge&logo=selenium)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-green?style=for-the-badge&logo=puppeteer)
-![Bash](https://img.shields.io/badge/Bash-Advanced-grey?style=for-the-badge&logo=gnu-bash)
+### 🗄️ Databases & Brokers
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </td>
 </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects & Research
-
-</div>
-
-### 🛡️ AI & Security
-* **AI-Powered Network Intrusion Detection (Master's Thesis)**: Developing a hybrid intrusion detection system using **Zeek** and **LangChain** to analyze DNS tunneling attacks. Conducting semantic analysis of network logs via LLMs, significantly reducing false positive rates compared to traditional signature-based methods.
-* **Natural Language Database Interface (R&D)**: Designed an intelligent LLM agent (using **LangChain** and **Ollama**) empowering users to query **PostgreSQL** databases utilizing natural language. Integrated **Elasticsearch** for vector search to securely expand the context window and handle complex schema queries.
-* **Odoo CRM Win Rate Predictor**: Trained and deployed a Machine Learning model within Odoo CRM to predict sales opportunity success rates. Analyzing historical data to provide real-time "probability of winning" scores, optimizing resource allocation.
-
-### 🏗️ SRE & Distributed Systems
-* **Observer (High-Performance Monitoring System)**: Overcame standard monitoring limitations by developing a custom Kubernetes monitoring solution utilizing a microservices architecture. Implemented **Kafka** and **RabbitMQ** for reliable, asynchronous metric ingestion paired with **Elasticsearch** for high-volume storage and anomaly detection.
-* **Enterprise Kubernetes & DevOps Transformation**: Deployed and managed production Kubernetes clusters on bare-metal servers for enterprise clients. Standardized deployments using **Helm Charts**, heavily decreasing deployment times and operational errors.
-
-### 🔗 Blockchain & Automation
-* **Blockchain R&D (Hyperledger Fabric)**: Developed smart contracts and REST integration layers for vehicle registration and EV charging networks (Enpos).
-* **Process Automation Tools**: Developed *SAP Logon AutoBot* for background job automation, an *Argo CD CLI* for remote operations, and *Mendirek* for secure VPN bypass connection testing.
-
----
-
-<div align="center">
-
-## 💼 Professional Experience
-
-</div>
-
-<table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" colspan="3">
 
-### 🏢 **Backend & SRE / DevOps Engineer**
-**[Detaysoft](https://www.detaysoft.com)** | *Nov 2021 - Present*  
-Manging enterprise cluster SLA & observability. Designing SAP integrated Odoo modules, implementing Selenium test bots, and actively contributing to smart-contract & REST API generation on R&D projects.
-
-</td>
-<td align="center" width="50%">
-
-### 💻 **Python Developer**
-**Freelance** | *Jun 2016 - Nov 2021*  
-Delivered tailored software systems, customer-centric API gateways, and custom Discord/Telegram interactive bots to increase end-user engagement.
+### 📈 Observability & SRE
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-181717?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 🎸 Beyond Coding
-
-When I'm not orchestrating containers or training models, I dive into entirely different zones:
-🌊 **Scuba Diving** & **Underwater Hockey** *(Fun Fact: I'm a Silver Level Lifeguard and a professional Swimming Coach!)*  
-🎵 Rocking out on my **Electric Guitar**
 
 </div>
 
