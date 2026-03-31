@@ -2,23 +2,30 @@
 
 # 🚀 Çağatay ÜRESİN
 
-### 🖥️ Site Reliability Engineer & DevOps Specialist
+### 💻 Backend Developer | Site Reliability Engineer (SRE) | AI & ML Engineer
 
-*Building resilient, scalable infrastructure for enterprise clients | 5+ years of production experience*
+*Bridging the gap between scalable infrastructure and intelligent LLM-powered applications.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cagatayuresin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cagatayuresin/)
+[![Email](https://img.shields.io/badge/Email-cagatayuresin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:cagatayuresin@gmail.com)
 
 ---
 
-**Computer Engineer | SRE** with 5+ years of backend development experience and specialized expertise in Site Reliability Engineering. Currently serving as **Backend Developer & SRE** at [Detaysoft](https://www.detaysoft.com), where I manage production clusters, implement monitoring solutions, and ensure system reliability for enterprise clients.
+**Computer Engineer & Master's Student** with a robust foundation in Backend Development, SRE, and MLOps. 
+I specialize in daily life automation, managing production Kubernetes clusters, and building robust CI/CD pipelines. 
+Recently, I've been expanding my technical horizon into **AI Engineering**, specifically developing LLM-powered agents, vector database search integrations, and machine learning prediction models.
 
-**🎓 Pursuing Master's Degree** in Computer Engineering at Sivas Cumhuriyet University (Sep 2025 - Present)
-
-**🔧 Core Expertise**: Kubernetes orchestration, containerization, CI/CD pipelines, monitoring & observability, infrastructure automation, and blockchain smart contracts.
+🎓 **MSc in Computer Engineering** @ Sivas Cumhuriyet University (2025 - Present)
+🎓 **BSc in Computer Engineering** @ Sivas Cumhuriyet University *(Honors: 3.43 GPA)*
+🔬 **BSc in Electronic Engineering** @ Bursa Uludağ University (2012 - 2021)
 
 </div>
 
+---
+
 <div align="center">
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Arsenal
 
 </div>
 
@@ -26,65 +33,83 @@
 <tr>
 <td align="center" width="33%">
 
-### 🚀 SRE & DevOps Core
+### 🤖 AI, ML & Data
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-green?style=for-the-badge&logo=langchain)
+![Ollama](https://img.shields.io/badge/Ollama-Advanced-white?style=for-the-badge&logo=ollama&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Intermediate-yellow?style=for-the-badge&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
 
+</td>
+<td align="center" width="33%">
+
+### 🚀 SRE, DevOps & Cloud
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-Expert-orange?style=for-the-badge&logo=gitlab)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-Advanced-blue?style=for-the-badge&logo=argo)
+![Terraform](https://img.shields.io/badge/Terraform-Advanced-purple?style=for-the-badge&logo=terraform)
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Backend & Architecture
+![Go](https://img.shields.io/badge/Go-Advanced-cyan?style=for-the-badge&logo=go)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
+![Kafka](https://img.shields.io/badge/Kafka-Advanced-black?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-red?style=for-the-badge&logo=redis)
+![gRPC](https://img.shields.io/badge/gRPC-Intermediate-blue?style=for-the-badge&logo=grpc)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-Advanced-red?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Advanced-orange?style=for-the-badge&logo=grafana)
-![Ansible](https://img.shields.io/badge/Ansible-Intermediate-red?style=for-the-badge&logo=ansible)
+![Zeek](https://img.shields.io/badge/Zeek-Intermediate-orange?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
 
-### ⚙️ CI/CD & Automation
+### 🌐 Frameworks & CMS
+![Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
+![Odoo](https://img.shields.io/badge/Odoo-Expert-purple?style=for-the-badge&logo=odoo)
+![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
 
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-Expert-orange?style=for-the-badge&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-red?style=for-the-badge&logo=jenkins)
-![SonarQube](https://img.shields.io/badge/SonarQube-Intermediate-red?style=for-the-badge&logo=sonarqube)
+</td>
+<td align="center" width="33%">
+
+### 🛡️ Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-Expert-green?style=for-the-badge&logo=selenium)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-green?style=for-the-badge&logo=puppeteer)
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-Advanced-cyan?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/Java-Intermediate-red?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-Advanced-grey?style=for-the-badge&logo=gnu-bash)
 
 </td>
 </tr>
 </table>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+---
 
-[Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-green?style=for-the-badge&logo=fastapi)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-Advanced-blue?style=for-the-badge&logo=hyperledger)
-![Odoo](https://img.shields.io/badge/Odoo-Expert-purple?style=for-the-badge&logo=odoo)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Intermediate-green?style=for-the-badge&logo=spring)
+<div align="center">
 
-</td>
-<td align="center" width="50%">
+## 🌟 Featured Projects & Research
 
-### 🗄️ Databases & Messaging
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange?style=for-the-badge&logo=mysql)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-Intermediate-purple?style=for-the-badge&logo=influxdb)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Intermediate-orange?style=for-the-badge&logo=rabbitmq)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-Intermediate-yellow?style=for-the-badge&logo=elasticsearch)
+### 🛡️ AI & Security
+* **AI-Powered Network Intrusion Detection (Master's Thesis)**: Developing a hybrid intrusion detection system using **Zeek** and **LangChain** to analyze DNS tunneling attacks. Conducting semantic analysis of network logs via LLMs, significantly reducing false positive rates compared to traditional signature-based methods.
+* **Natural Language Database Interface (R&D)**: Designed an intelligent LLM agent (using **LangChain** and **Ollama**) empowering users to query **PostgreSQL** databases utilizing natural language. Integrated **Elasticsearch** for vector search to securely expand the context window and handle complex schema queries.
+* **Odoo CRM Win Rate Predictor**: Trained and deployed a Machine Learning model within Odoo CRM to predict sales opportunity success rates. Analyzing historical data to provide real-time "probability of winning" scores, optimizing resource allocation.
 
-</td>
-</tr>
-</table>
+### 🏗️ SRE & Distributed Systems
+* **Observer (High-Performance Monitoring System)**: Overcame standard monitoring limitations by developing a custom Kubernetes monitoring solution utilizing a microservices architecture. Implemented **Kafka** and **RabbitMQ** for reliable, asynchronous metric ingestion paired with **Elasticsearch** for high-volume storage and anomaly detection.
+* **Enterprise Kubernetes & DevOps Transformation**: Deployed and managed production Kubernetes clusters on bare-metal servers for enterprise clients. Standardized deployments using **Helm Charts**, heavily decreasing deployment times and operational errors.
+
+### 🔗 Blockchain & Automation
+* **Blockchain R&D (Hyperledger Fabric)**: Developed smart contracts and REST integration layers for vehicle registration and EV charging networks (Enpos).
+* **Process Automation Tools**: Developed *SAP Logon AutoBot* for background job automation, an *Argo CD CLI* for remote operations, and *Mendirek* for secure VPN bypass connection testing.
 
 ---
 
@@ -98,102 +123,34 @@
 <tr>
 <td align="center" width="50%">
 
-### 🏢 **Backend Developer & SRE**
-**[Detaysoft](https://www.detaysoft.com)**  
-*Nov 2021 - Present*  
-📍 *Sivas, Turkey*
+### 🏢 **Backend & SRE / DevOps Engineer**
+**[Detaysoft](https://www.detaysoft.com)** | *Nov 2021 - Present*  
+Manging enterprise cluster SLA & observability. Designing SAP integrated Odoo modules, implementing Selenium test bots, and actively contributing to smart-contract & REST API generation on R&D projects.
 
 </td>
 <td align="center" width="50%">
 
 ### 💻 **Python Developer**
-**Freelance**  
-*Jun 2016 - Nov 2021*  
-📍 *Bursa, Turkey*
+**Freelance** | *Jun 2016 - Nov 2021*  
+Delivered tailored software systems, customer-centric API gateways, and custom Discord/Telegram interactive bots to increase end-user engagement.
 
 </td>
 </tr>
 </table>
+
 ---
 
 <div align="center">
 
-## 🎓 Education
+## 🎸 Beyond Coding
+
+When I'm not orchestrating containers or training models, I dive into entirely different zones:
+🌊 **Scuba Diving** & **Underwater Hockey** *(Fun Fact: I'm a Silver Level Lifeguard and a professional Swimming Coach!)*  
+🎵 Rocking out on my **Electric Guitar**
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎓 **Master's Degree**
-**Computer Engineering**  
-**Sivas Cumhuriyet University**  
-*Sep 2025 - Present*  
-*Currently Pursuing*
-
-</td>
-<td align="center" width="33%">
-
-### 🎓 **Bachelor's Degree**
-**Computer Engineering**  
-**Sivas Cumhuriyet University**  
-*Sep 2021 - Jun 2025*  
-*GPA: 3.43*
-
-</td>
-<td align="center" width="33%">
-
-### 🔬 **Electronic Engineering**
-**Bursa Uludağ University**  
-*Jun 2012 - Jul 2021*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-## 🏅 Certifications
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🏆 **Coming Soon**
-*Professional Certifications*
-
-**AWS Solutions Architect**  
-*Amazon Web Services*  
-*Ref: AWS-SAA-2025*  
-*[View Certificate](#)*
-
-**Kubernetes Administrator**  
-*Cloud Native Computing Foundation*  
-*Ref: CKA-2025*  
-*[View Certificate](#)*
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **Future Certifications**
-*Planned Certifications*
-
-**Google Cloud Professional**  
-*Google Cloud Platform*  
-*Ref: GCP-PRO-2025*  
-*[View Certificate](#)*
-
-**Docker Certified Associate**  
-*Docker Inc.*  
-*Ref: DCA-2025*  
-*[View Certificate](#)*
-
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
@@ -205,19 +162,19 @@
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 
 </td>
 <td align="center" width="50%">
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cagatayuresin&theme=shades-of-purple&hide_border=false)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cagatayuresin&theme=tokyonight&hide_border=false)
 
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuresin&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cagatayuresin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
 </tr>
@@ -227,34 +184,9 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cagatayuresin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cagatayuresin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-*Coming Soon - Professional DevOps & SRE Tools*
-
-<!-- 
-**🚀 Enterprise-Grade Tools:**
-- **[Observer](https://github.com/cagatayuresin/observer)**: High-performance Kubernetes monitoring tool with integrated anomaly detection and alerting mechanisms
-- **[Kubernetes Installer Script](https://github.com/cagatayuresin/k8s-installer)**: Ansible-compatible automated Kubernetes cluster setup for enterprise environments
-- **[Argo CD API CLI Tool](https://github.com/cagatayuresin/argocd-cli)**: Command-line interface for managing and triggering Argo CD operations remotely
-- **[Mendirek](https://github.com/cagatayuresin/mendirek)**: Secure REST/SOAP testing utility with VPN bypass capabilities for backend communication validation
-- **[SAP Logon AutoBot](https://github.com/cagatayuresin/sap-autobot)**: Modular automation tool for executing SAP transactions as background jobs
-
-**🔧 Development Tools:**
-- **[Odoo XMLRPC Wrapper](https://github.com/cagatayuresin/odoo-xmlrpc-wrapper)**: Python library for streamlined CRUD operations with Odoo External API
-- **[Odoo Backup Wizard](https://github.com/cagatayuresin/odoo-backup-wizard)**: Cross-platform backup automation tool for Odoo servers with GUI and CLI support
--->
-
-</div>
-
----
 
 <div align="center">
 
