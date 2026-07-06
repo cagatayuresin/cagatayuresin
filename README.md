@@ -275,6 +275,11 @@ If one card fails, it is usually the provider service, not the README itself.
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [KubeOwl: Agentic RAG for Kubernetes Operations](https://cagatayuresin.com/blog/kube-owl-agentic-rag-kubernetes-operations/)
+- [ITBench Explained: AI Agent Benchmark for IT Operations](https://cagatayuresin.com/blog/itbench-ai-agent-benchmark-it-operations/)
+- [Keel for Kubernetes: Simple Automated Deployments from Your Registry](https://cagatayuresin.com/blog/keel-kubernetes-automated-deployments/)
+- [Automated Deployments on K3s with ArgoCD Image Updater](https://cagatayuresin.com/blog/argocd-image-updater/)
+- [Observer Lite: Self-Host It, Watch Everything](https://cagatayuresin.com/blog/observer-lite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
